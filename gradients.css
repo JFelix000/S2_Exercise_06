@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+/* linear Gradients */
+/* html {
+    background: linear-gradient(red , white 33.33%, blue 33.33%);
+    height: 100%;
+} */
+
+/* Radial Gradients */
+html {
+    background: radial-gradient(circle farthest-side at center ,blue, white, red);
+    height: 100%;
+}
